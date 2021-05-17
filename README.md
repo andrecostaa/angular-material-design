@@ -1,6 +1,7 @@
 # Estudos01
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+Projeto simples para entender/estudar o Angular utilizando Material Design.
+Versão do angular: 11.2.11.
 
 ## Development server
 
