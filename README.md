@@ -1,4 +1,4 @@
-# Estudos01
+# Angular + Material Design
 
 Projeto simples para entender/estudar o Angular utilizando Material Design.
 Versão do angular: 11.2.11.
